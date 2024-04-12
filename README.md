@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aniketh Pala</h1>
-<h3 align="center">I'm a passionate Computer Science Engineering student at VIT Pune, currently in my second year. I love exploring various aspects of software development and enjoy diving deep into challenging problems.</h3>
+<h3 align="center">I'm a passionate Computer Science Engineering student at VIT Pune, currently in my second year.
+
+<p>I have a keen interest in:</p>
+
+  <ul>
+    <li>Backend Development</li>
+    <li>Deployment Strategies</li>
+    <li>Cloud Computing</li>
+    <li>Blockchain Development</li>
+    <li>Competitive Programming</li>
+  </ul>
+
+<p>I enjoy delving into the complexities of backend systems, exploring efficient deployment techniques, leveraging cloud services for scalable solutions, crafting secure and decentralized applications using blockchain technology, and honing my problem-solving skills through competitive programming challenges.</p>
 
 - 🔭 I’m currently working on [The Bombay Forum](https://thebombayforum.com)
 
