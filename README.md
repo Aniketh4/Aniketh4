@@ -29,7 +29,7 @@
   <ul>
     <li>
       <h3>G.H. Raisoni Code Vista 4.0</h3>
-      <p>Won a prize of INR 15,000 by coming first.</p>
+      <p>Won a prize of INR 15,000 by securing the first position</p>
     </li>
     <li>
       <h3>Gedit Coding Club VIT Pune</h3>
