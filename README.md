@@ -17,11 +17,11 @@
     </li>
     <li>
       <h3>Supply Chain Management using Blockchain</h3>
-      <p>Developed a platform for secure supply chain management for medical products using RFID tags and storing data on the blockchain. <a href="https://github.com/Aniketh4/College_connect">Repo Link</a></p>
+      <p>Developed a platform for secure supply chain management for medical products using RFID tags and storing data on the blockchain. </p>
     </li>
     <li>
       <h3>MERN Stack College Community Website</h3>
-      <p>Created a website serving as a hub for college students to connect, help each other, and grow, with a Reddit-style interface. </p>
+      <p>Created a website serving as a hub for college students to connect, help each other, and grow, with a Reddit-style interface. <a href="https://github.com/Aniketh4/College_connect">Repo Link</a> </p>
     </li>
   </ol>
 
