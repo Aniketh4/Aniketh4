@@ -7,8 +7,37 @@
 
 - 📫 How to reach me **anikethpala@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+-  <h2>My Projects</h2>
+  <ol>
+    <li>
+      <h3>Thebombay Forum</h3>
+      <p>A news and magazine startup where I built the backend of the website and managed deployment using cloud services. <a href="thebombayforum.com">Check it out here!</a></p>
+    </li>
+    <li>
+      <h3>Supply Chain Management using Blockchain</h3>
+      <p>Developed a platform for secure supply chain management for medical products using RFID tags and storing data on the blockchain. (Available in repository)</p>
+    </li>
+    <li>
+      <h3>MERN Stack College Community Website</h3>
+      <p>Created a website serving as a hub for college students to connect, help each other, and grow, with a Reddit-style interface. (Available in repository)</p>
+    </li>
+  </ol>
+
+-  <h2>My Achievements</h2>
+  <ul>
+    <li>
+      <h3>G.H. Raisoni Code Vista 4.0</h3>
+      <p>Won a prize of INR 15,000 by coming first.</p>
+    </li>
+    <li>
+      <h3>Gedit Coding Club VIT Pune</h3>
+      <p>Secured the first position and won a prize of INR 1500.</p>
+    </li>
+  </ul>
+
+<h3 align="left">Other Links:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aniketh-pala-415290257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketh-pala-415290257" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aniketh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniketh4" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aniketh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aniketh4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniketh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketh4" height="30" width="40" /></a>
