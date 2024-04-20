@@ -25,18 +25,6 @@
     </li>
   </ol>
 
--  <h2>My Achievements</h2>
-  <ul>
-    <li>
-      <h3>G.H. Raisoni Code Vista 4.0</h3>
-      <p>Won a prize of INR 15,000 by securing the first position</p>
-    </li>
-    <li>
-      <h3>Gedit Coding Club VIT Pune</h3>
-      <p>Secured the first position and won a prize of INR 1500.</p>
-    </li>
-  </ul>
-
 <h3 align="left">Other Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniketh-pala-415290257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketh-pala-415290257" height="30" width="40" /></a>
