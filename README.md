@@ -13,7 +13,7 @@
   <ol>
     <li>
       <h3>Thebombay Forum</h3>
-      <p>A news and magazine startup where I built the backend of the website and managed deployment using cloud services. <a href="thebombayforum.com">Check it out here!</a></p>
+      <p>A news and magazine startup where I built the backend of the website and managed deployment using cloud services. <a href="https://thebombayforum.com">Check it out here!</a></p>
     </li>
     <li>
       <h3>Supply Chain Management using Blockchain</h3>
